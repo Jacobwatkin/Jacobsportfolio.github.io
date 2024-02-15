@@ -18,9 +18,10 @@ section {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: green;
+    background-color: black;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
+    Color: red;
 }
 
 h1, h2 {
@@ -30,6 +31,13 @@ h1, h2 {
 ul {
     list-style: none;
     padding: 0;
+}
+a:link {
+  color: red;
+}
+
+a:visited {
+  color: red;
 }
 
 li {
