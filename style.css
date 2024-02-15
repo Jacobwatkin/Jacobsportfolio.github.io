@@ -18,7 +18,7 @@ section {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: red;
+    background-color: green;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
 }
