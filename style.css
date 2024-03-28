@@ -13,7 +13,9 @@ header {
     text-align: center;
     padding: 1em 0;
 }
-
+.hidden{
+    display="none"
+}
 section {
     max-width: 800px;
     margin: 20px auto;
