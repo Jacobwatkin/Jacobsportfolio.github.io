@@ -14,7 +14,7 @@ header {
     padding: 1em 0;
 }
 .hidden{
-    display="none"
+    display="none";
 }
 section {
     max-width: 800px;
