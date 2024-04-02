@@ -3,13 +3,13 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: red;
+    background-color: pink;
     color: black;
 }
 
 header {
     background-color: black;
-    color: red;
+    color: pink;
     text-align: center;
     padding: 1em 0;
 }
@@ -23,11 +23,11 @@ section {
     background-color: black;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
-    Color: red;
+    Color: pink;
 }
 
 h1, h2 {
-    color: red;
+    color: pink;
 }
 
 ul {
@@ -35,11 +35,11 @@ ul {
     padding: 0;
 }
 a:link {
-  color: red;
+  color: pink;
 }
 
 a:visited {
-  color: red;
+  color: pink;
 }
 
 li {
@@ -47,8 +47,8 @@ li {
 }
 
 footer {
-    background-color: red;
-    color: black;
+    background-color: black;
+    color: pink;
     text-align: center;
     padding: 1em 0;
     position: fixed;
